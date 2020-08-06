@@ -1,5 +1,5 @@
 ---
-title: 'Business Sales'
+title: 'Computer Repair'
 image: '/services/default.png'
 ---
 

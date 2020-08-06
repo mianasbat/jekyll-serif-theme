@@ -1,5 +1,5 @@
 ---
-title: "Mergers"
+title: "Online Tuition"
 image: "/services/default.png"
 ---
 
